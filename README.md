@@ -1,2 +1,1 @@
-# Transformerless-Power-supply
-Implemented PCB design of Transformerless power supply  in KICAD Application
+Mater KiCad with Projects is a series of lectures in which we are learning PCB designing.
